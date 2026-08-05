@@ -168,5 +168,3 @@ while True:
     else:
         print("just between 1 and 7")
         continue
-
-# 95 from 100 !
